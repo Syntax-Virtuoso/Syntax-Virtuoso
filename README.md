@@ -34,10 +34,8 @@ Here's a quick overview of my interests and skills:
 Take a look at some of my favorite projects:
 
 | Project | Description | Tech Stack | Repo |
-|---------|-------------|------------|------|
-| *Comming soon* | *Comming soon* | *Comming soon* | *Comming soon* |
-<!--  Example:
-        | **[Portfolio Website](https://github.com/your-username/portfolio)** | A personal website to showcase my skills and projects. | HTML, CSS, JavaScript | [GitHub](https://github.com/your-username/portfolio) |     -->
+|:--------:|:--------:|:--------:|:--------:|
+| **[The Factorial Force](thefactorialforce.vercel.app)** | An advanced calculator to do various calculations | HTML, CSS, JavaScript, Python, Tailwind CSS, Flask, Vercel | Private Repo |
 
 ---
 
