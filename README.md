@@ -35,7 +35,7 @@ Take a look at some of my favorite projects:
 
 | Project | Description | Tech Stack | Repo |
 |:--------:|:--------:|:--------:|:--------:|
-| **[The Factorial Force](thefactorialforce.vercel.app)** | An advanced calculator to do various calculations | HTML, CSS, JavaScript, Python, Tailwind CSS, Flask, Vercel | Private Repo |
+| **[The Factorial Force](https://thefactorialforce.vercel.app)** | An advanced calculator to do various calculations made by me and [@shalomkeshet](https://github.com/shalomkeshet) | HTML, CSS, JavaScript, Python, Tailwind CSS, Flask, Vercel | Private Repo |
 
 ---
 
