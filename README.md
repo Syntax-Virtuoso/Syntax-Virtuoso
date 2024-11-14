@@ -61,4 +61,4 @@ I'm always open to collaborating on projects, discussing tech, or just having a 
 ---
 
 Thanks for visiting my profile! 😊 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Syntax-Virtuoso&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Syntax-Virtuoso&show_icons=true&theme=radical">
